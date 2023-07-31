@@ -6,7 +6,7 @@
   </div>
 </div>
 
-I'm a versatile programmer with a passion for design. I learn fast and I'm really good at communicating and leading. My expertise lies in web development and design, but I've also explored mobile app development. I thrive in adapting to different challenges and opportunities.
+A versatile programmer with a passion for design, possessing a rapid learning ability and strong communication and leadership skills. Expertise lies in web development and design, with exploration in mobile app development. Thrives in adapting to diverse challenges and opportunities.
 
 #### Markup and Languages
 ![React](https://img.shields.io/static/v1?style=for-the-badge&message=React&color=222222&logo=React&logoColor=61DAFB&label=)

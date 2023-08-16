@@ -1,5 +1,6 @@
 <div align="center">
   <h2><samp>Hi! i'm David Quintanilla</samp></h2>
+  <p>#SomosUCA</p>
   <div>
     <img src="https://img.shields.io/badge/Open%20to%20Work-Yes-brightgreen">  
     <a href="https://davidquintr.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-Visit-white"></a>

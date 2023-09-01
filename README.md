@@ -2,7 +2,7 @@
   <h2><samp>Hi! i'm David Quintanilla</samp></h2>
   <p>#SomosUCA</p>
   <div>
-    <img src="https://img.shields.io/badge/Open%20to%20Work-Yes-brightgreen">  
+    <img src="https://img.shields.io/badge/Open%20to%20Work-No-red">  
     <a href="https://davidquintr.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-Visit-white"></a>
   </div>
 </div>

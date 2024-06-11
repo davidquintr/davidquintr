@@ -1,12 +1,12 @@
 <div align="center">
-  <h2><samp>Hi! i'm David Quintanilla</samp></h2>
-  <p>#SomosUCA</p>
+  <h1><samp>Hi! i'm David Quintanilla</samp></h1>
   <div>
-    <img src="https://img.shields.io/badge/Open%20to%20Work-No-red">  
+    <img src="https://img.shields.io/badge/Open%20to%20Work-IDK-orange">
     <a href="https://davidquintr.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-Visit-white"></a>
+    <a href="https://www.wikiwand.com/es/Universidad_Centroamericana"><img src="https://img.shields.io/badge/🇳🇮%20SOMOS%20UCA-002044"></a>
   </div>
 </div>
-
+<br>
 A versatile programmer with a passion for design, possessing a rapid learning ability and strong communication and leadership skills. Expertise lies in web development and design, with exploration in mobile app development. Thrives in adapting to diverse challenges and opportunities.
 
 #### Markup and Languages
